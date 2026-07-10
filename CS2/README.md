@@ -1,6 +1,5 @@
 1. drag all files into game\csgo\cfg
 2. run "exec autoexec" in console
-3. 
 
 press J to cycle the say binds
 
@@ -14,7 +13,7 @@ press J to cycle the say binds
               ├── autoexec.cfg
 
 ## Launch Arguments
-`+exec autoexec.cfg -allow_third_party_software -nojoy -limitvsconst -dev`
+`+exec autoexec.cfg -nojoy -limitvsconst`
 
 ## Video Settings
 
